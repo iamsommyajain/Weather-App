@@ -30,15 +30,16 @@ A simple weather application that allows users to check the current weather cond
    git clone https://github.com/iamsommyajain/Weather-App.git
    ```
 2. **Navigate to the project folder**
-```sh
-cd Weather-App
-```
+  ```sh
+  cd Weather-App
+  ```
 
-##🔑 API Key Setup
+## 🔑 API Key Setup 
+
 This project uses the OpenWeather API. Replace apiKey in script.js with your own API key:
-```sh
-const apiKey = "YOUR_OPENWEATHER_API_KEY";
-```
+  ```sh
+  const apiKey = "YOUR_OPENWEATHER_API_KEY";
+  ```
 Get your API key from OpenWeather.
 
-Deployed Link : https://iamsommyajain.github.io/Weather-App/
+Deployed Link: https://iamsommyajain.github.io/Weather-App/
